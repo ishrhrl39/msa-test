@@ -1,9 +1,5 @@
 server:
   port: 8072
-  
-logging: 
-  config: classpath:logback-delayed.xml
-  
  
 eureka:
   instance:
